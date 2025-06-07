@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual envs
+venv/
+venv310/
+env/
+ENV/
+
+# Firebase
+*.json
+
+# Attendance & data
+Attendance/
+*.csv
+*.xlsx
+
+# System/IDE
+.DS_Store
+.vscode/
+.idea/
